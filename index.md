@@ -187,21 +187,21 @@
         <h2 class="text-4xl font-['Playfair_Display'] font-bold mb-12 text-center">Cidade Criativa UNESCO</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div class="bg-white rounded-lg overflow-hidden shadow-sm">
-            <img src="https://public.readdy.ai/ai/img_res/88c032157ebf13276abf7b5b5d97ac9e.jpg" class="w-full h-48 object-cover" alt="Media Arts">
+            <img src="https://www.bragamediaarts.com/media/filer_public_thumbnails/filer_public/6a/65/6a65cc80-6bc2-4891-99e1-5fea2b10b477/221129_circuito_we_contar_historias_sem_palavras-35.jpg__2000x0_q85_subsampling-2_upscale.jpg" class="w-full h-48 object-cover" alt="Media Arts">
             <div class="p-6">
               <h3 class="text-xl font-bold mb-2">Media Arts</h3>
               <p class="text-gray-600">Reconhecimento UNESCO pela excelência em arte digital e tecnologia.</p>
             </div>
           </div>
           <div class="bg-white rounded-lg overflow-hidden shadow-sm">
-            <img src="https://public.readdy.ai/ai/img_res/4ce7514bd577b8099442ff9ae3bf2d14.jpg" class="w-full h-48 object-cover" alt="Eventos Culturais">
+            <img src="https://visitbraga.travel/welcome/pub/media/wysiwyg/Semana_Santa.jpg" class="w-full h-48 object-cover" alt="Eventos Culturais">
             <div class="p-6">
               <h3 class="text-xl font-bold mb-2">Eventos Culturais</h3>
               <p class="text-gray-600">Programação anual rica em eventos que fundem tradição e modernidade.</p>
             </div>
           </div>
           <div class="bg-white rounded-lg overflow-hidden shadow-sm">
-            <img src="https://public.readdy.ai/ai/img_res/73499b1ee3e9ae748b7ede9f81a9071b.jpg" class="w-full h-48 object-cover" alt="Inovação Cultural">
+            <img src="https://webraga.pt/wp-content/uploads/2025/01/we-braga-capital-portuguesa-cultura.jpg" class="w-full h-48 object-cover" alt="Inovação Cultural">
             <div class="p-6">
               <h3 class="text-xl font-bold mb-2">Inovação Cultural</h3>
               <p class="text-gray-600">Projetos que integram património histórico e tecnologia digital.</p>

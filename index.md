@@ -167,6 +167,7 @@
                 <p class="text-gray-600">Plataformas digitais inovadoras como TOMI e Smart-Guide para melhor experiência turística.</p>
               </div>
             </div>
+            <img src="https://i.imgur.com/8VPCnpL.png" class="w-full h-48 object-cover" alt="Esquema">
           </div>
           <div class="bg-white p-8 rounded-lg shadow-sm">
             <div class="flex items-start gap-4">
@@ -215,7 +216,7 @@
     <div class="container mx-auto px-6">
       <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
         <div>
-          <img src="https://static.readdy.ai/image/7eaa7b9a7074d3e72c7d6cb5a54ad255/945a204675b124ffcd4f7ccc2aa23ee5.png" alt="Braga 2026" class="h-10 mb-4">
+          <img src="https://scontent-lis1-1.xx.fbcdn.net/v/t39.30808-6/474819051_1080705040764437_7163864804145433871_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=KlEZB0uCtWcQ7kNvgH4QKPt&_nc_oc=Adkyg51hHDYS5GT9qv6SKoGAsx7PeVs1uCSUI91Hf-NUml8bOaRkrF7cm_z6SGGO5H0&_nc_zt=23&_nc_ht=scontent-lis1-1.xx&_nc_gid=lilrb0sHzPvT7g3koMsdgA&oh=00_AYF4yv5Ak3b68hfefVY0ldJYETN2dguPnTd5h2j8ADYubw&oe=67E714EA" alt="Braga 2026" class="h-10 mb-4">
           <p class="text-gray-400">Capital Europeia do Turismo Inteligente</p>
         </div>
         <div>

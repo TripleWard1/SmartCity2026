@@ -168,8 +168,7 @@
               </div>
             </div>
             </div>
-          <img src="https://i.imgur.com/8VPCnpL.png" class="w-full h-48 object-cover" alt="Esquema">
-          <div class="bg-white p-8 rounded-lg shadow-sm">
+            <div class="bg-white p-8 rounded-lg shadow-sm">
             <div class="flex items-start gap-4">
               <div class="w-12 h-12 flex items-center justify-center bg-primary/10 rounded-full">
                 <i class="ri-global-line text-primary text-2xl"></i>
@@ -182,6 +181,7 @@
           </div>
         </div>
       </div>
+      <img src="https://i.imgur.com/8VPCnpL.png" class="w-full h-48 object-cover" alt="Esquema">
     </section>
     <section id="cultura" class="py-20">
       <div class="container mx-auto px-6">

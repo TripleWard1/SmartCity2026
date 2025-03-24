@@ -181,8 +181,8 @@
           </div>
         </div>
       </div>
-      <img src="https://i.imgur.com/8VPCnpL.png" class="w-full h-48 object-cover" alt="Esquema">
-    </section>
+     </section>
+     <img src="https://i.imgur.com/8VPCnpL.png" class="w-full h-48 object-cover" alt="Esquema">
     <section id="cultura" class="py-20">
       <div class="container mx-auto px-6">
         <h2 class="text-4xl font-['Playfair_Display'] font-bold mb-12 text-center">Cidade Criativa UNESCO</h2>

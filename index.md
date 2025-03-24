@@ -167,8 +167,8 @@
                 <p class="text-gray-600">Plataformas digitais inovadoras como TOMI e Smart-Guide para melhor experiência turística.</p>
               </div>
             </div>
-            <img src="https://i.imgur.com/8VPCnpL.png" class="w-full h-48 object-cover" alt="Esquema">
-          </div>
+            </div>
+          <img src="https://i.imgur.com/8VPCnpL.png" class="w-full h-48 object-cover" alt="Esquema">
           <div class="bg-white p-8 rounded-lg shadow-sm">
             <div class="flex items-start gap-4">
               <div class="w-12 h-12 flex items-center justify-center bg-primary/10 rounded-full">

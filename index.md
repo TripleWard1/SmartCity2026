@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt">
 
 <head>
@@ -67,7 +66,7 @@
     </nav>
   </header>
   <main>
-    <section id="inicio" class="relative min-h-screen flex items-center" style="background-image: url('https://imagens.bragatv.pt/wp-content/uploads/2020/10/19172449/braga-centro.jpg'); background-size: cover; background-position: center;">
+    <section id="inicio" class="relative min-h-screen flex items-center" style="background-image: url('https://www.impulsiveaddiction.com/wp-content/uploads/2021/09/bom-jesus-de-braga-3.jpg'); background-size: cover; background-position: center;">
       <div class="absolute inset-0 hero-gradient"></div>
       <div class="container mx-auto px-6 relative">
         <div class="max-w-2xl">
